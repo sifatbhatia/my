@@ -44,7 +44,7 @@ export default function Stack() {
             rel="noreferrer"
           >
             <Image
-              src="/static/icons/document-svgrepo-com.svg"
+              src="/static/icons/Resume.svg"
               width={20}
               height={20}
               alt="LinkedIn icon"
