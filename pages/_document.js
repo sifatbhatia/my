@@ -15,6 +15,13 @@ export default class MyDocument extends Document {
           <link rel="mask-icon" href="static/favicon/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#2b5797" />
 
+          <meta property="og:title" content="Portfolio by Sifat Bhatia" />
+          <meta property="og:image" content="https://i.ibb.co/X8GRRYY/Screenshot-2022-02-01-220554.png" />
+          <meta property="og:image:secure_url" content="https://i.ibb.co/X8GRRYY/Screenshot-2022-02-01-220554.png" />
+          <meta property="og:image:type" content="image/png" />
+          <meta property="og:image:width" content="400" />
+          <meta property="og:image:height" content="300" />
+          <meta property="og:image:alt" content="Portfolio by Sifat Bhatia" />
           <meta name="theme-color"
             content="#ffffff"
             media="(prefers-color-scheme: light)" />
