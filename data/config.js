@@ -1,11 +1,11 @@
 export const meta = {
   title: 'Sifat Bhatia - Web Developer and Designer',
-  description: 'Hey, I\'m Sifat. I\'m a web developer and designer building things people love.'
+  description: "I'm a web developer and designer with 2 years of experience. Currently working with different A"
 }
 
 export const hero = {
   title: "Hey there! I'm Sifat Bhatia.",
-  desc: "I'm a web developer and designer with 2 years of experience."
+  desc: "I'm a web developer and designer with 2 years of experience. Currently working with different A"
 };
 
 export const projects = {
