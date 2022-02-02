@@ -101,5 +101,7 @@ export const contact = {
   email: 'bsifat@gmail.com',
   github: 'theking-lbj',
   dribbble: 'theking-lbj',
-  linkedin: 'siftion'
+  linkedin: 'siftion',
+  resume: 'https://docdro.id/LY6rMOL'
+
 };

@@ -32,6 +32,24 @@ export default function Stack() {
               height={20}
               alt="LinkedIn icon"
             />
+            
+          </a>
+          
+          
+        )}
+        {contact.resume && (
+          <a
+            href={`${contact.resume}`}
+            target="_blank"
+            rel="noreferrer"
+          >
+            <Image
+              src="/static/icons/Resume.svg"
+              width={20}
+              height={20}
+              alt="LinkedIn icon"
+            />
+            
           </a>
         )}
       </div>
