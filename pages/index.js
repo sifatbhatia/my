@@ -4,6 +4,7 @@ import Hero from '@/components/Hero';
 import Projects from '@/components/Projects';
 import Stack from '@/components/Stack';
 import Projects2 from '@/components/Projects2';
+import Stack2 from '@/components/Stack2';
 
 import { meta } from '@/data/config';
 
@@ -19,6 +20,7 @@ export default function Index() {
           <Projects />
           <Projects2 />
           <Stack />
+          <Stack2 />
           <Contact />
 
         </div>
