@@ -44,7 +44,7 @@ export default function Stack() {
             rel="noreferrer"
           >
             <Image
-              src="/static/icons/resume.svg"
+              src="/static/icons/resume-cv.svg"
               width={20}
               height={20}
               alt="Resume icon"
