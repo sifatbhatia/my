@@ -1,11 +1,11 @@
 export const meta = {
   title: 'Sifat Bhatia - Web Developer and Designer',
-  description: "I'm a web developer and designer with 2 years of experience. Currently working with different A"
+  description: "I'm a web developer and designer with 2 years of experience. Currently working with different Artists"
 }
 
 export const hero = {
   title: "Hey there! I'm Sifat Bhatia.",
-  desc: "I'm a web developer and designer with 2 years of experience. Currently working with different A"
+  desc: "I'm a web developer and designer with 2 years of experience. Currently working with different Artists like J. Worra, DJ Soda and with L'Affaire Musicale and Wicked Paradise, event company based in Los Angeles, CA. I am constantly evolving my skills to better myself and stay up to date."
 };
 
 export const projects = {
