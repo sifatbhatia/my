@@ -35,7 +35,20 @@ export const projects = {
       description: 'Site build for a small ice-cream shop in Jacksonville',
       link: 'https://icecapadefrozentreats.com/',
       github: ''
-    }
+    },
+    {
+      title: 'Wicked Paradise',
+      description: 'Wicked Paradise is the premier daytime, pool, and boat party brand in the US.',
+      link: 'https://www.wckdparadise.com/',
+      github: ''
+    },
+
+    {
+      title: 'Design System',
+      description: 'My very first design system, Fluid Eyes',
+      link: 'https://xd.adobe.com/view/2e2df0cb-8bb6-4da0-9eab-0729affb126c-7b7e/?fullscreen',
+      github: ''
+    },
   ]
 };
 
@@ -55,12 +68,7 @@ export const projects2 = {
       link: 'https://ecstatic-kirch-611d40.netlify.app/home',
       github: ''
     },
-    {
-      title: 'Wicked Paradise',
-      description: 'Wicked Paradise is the premier daytime, pool, and boat party brand in the US. Launching soon!',
-      link: 'https://www.wckdparadise.com/',
-      github: ''
-    },
+    
   ]
 };
 
