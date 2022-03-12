@@ -28,8 +28,8 @@ export default function Stack() {
           >
             <Image
               src="/static/icons/linkedin.svg"
-              width={20}
-              height={20}
+              width={40}
+              height={40}
               alt="LinkedIn icon"
             />
             
@@ -45,8 +45,8 @@ export default function Stack() {
           >
             <Image
               src="/static/icons/resume-cv.svg"
-              width={20}
-              height={20}
+              width={40}
+              height={40}
               alt="Resume icon"
             />
             
