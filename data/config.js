@@ -110,6 +110,6 @@ export const contact = {
   github: 'theking-lbj',
   dribbble: 'theking-lbj',
   linkedin: 'siftion',
-  resume: 'https://my-sifatbhatia.vercel.app/'
+  resume: 'https://smallpdf.com/file#s=7bbc4686-1c0d-4b0f-b38a-ed7bf3a6326f'
 
 };
